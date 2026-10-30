@@ -18,14 +18,6 @@ Este projeto consiste numa suíte completa de testes automatizados (End-to-End e
 ## Estrutura do Projeto
 
 
-vollmecypress-aula-5/
-├── cypress/                # Suíte de testes automatizados com Cypress
-│   ├── e2e/                # Cenários de teste (Login, Cadastro, Dashboard, API)
-│   ├── fixtures/           # Massas de dados simuladas (clínicas, especialistas)
-│   ├── results/            # Relatórios de execução (Mochawesome HTML)
-│   └── support/            # Comandos personalizados e configurações globais
-├── server/                 # API Backend (Node.js, TypeScript, TypeORM, SQLite)
-└── web/                    # Aplicação Frontend (React e TypeScript)
 Principais Casos de Teste Implementados
 A suíte de testes cobre fluxos críticos de negócio da aplicação médica, incluindo:
 
